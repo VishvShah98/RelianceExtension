@@ -1,0 +1,23 @@
+{
+  "manifest_version": 3,
+  "name": "Water Heater Pricing Tool",
+  "version": "1.0",
+  "description": "Get water hardness and pricing for water heaters based on city.",
+  "action": {
+    "default_popup": "popup.html",
+    "default_popup_size": {
+      "width": 400,
+      "height": 500
+    }
+  },
+  "permissions": [
+    "activeTab",
+    "storage"
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": ["data.json"],
+      "matches": ["<all_urls>"]
+    }
+  ]
+}

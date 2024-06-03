@@ -1,0 +1,396 @@
+{
+    "soft": [
+        {
+            "type": "Bradford White Storage Tank - 40 Gal",
+            "price": "$22.83",
+            "price_with_tax": "$25.79",
+            "enercare_price": "NA"
+        },
+        {
+            "type": "Bradford White Storage Tank - 50 Gal",
+            "price": "$22.83",
+            "price_with_tax": "$25.79",
+            "enercare_price": "NA"
+        },
+        {
+            "type": "Bradford White Storage Tank - 60 Gal",
+            "price": "$22.83",
+            "price_with_tax": "$25.79",
+            "enercare_price": "NA"
+        },
+        {
+            "type": "Conventional Gas - 40 Gal",
+            "price": "$23.00",
+            "price_with_tax": "$25.98",
+            "enercare_price": "$23.97"
+        },
+        {
+            "type": "Conventional Gas - 50 Gal",
+            "price": "$24.57",
+            "price_with_tax": "$27.73",
+            "enercare_price": "$25.55"
+        },
+        {
+            "type": "Conventional Gas - 60 Gal",
+            "price": "$28.94",
+            "price_with_tax": "$32.70",
+            "enercare_price": "$29.30"
+        },
+        {
+            "type": "Conventional Gas - 75 Gal",
+            "price": "$39.20",
+            "price_with_tax": "$44.29",
+            "enercare_price": "NA"
+        },
+        {
+            "type": "Power Vent Gas - 40 Gal",
+            "price": "$36.61",
+            "price_with_tax": "$41.40",
+            "enercare_price": "$35.32"
+        },
+        {
+            "type": "Power Vent Gas - 50 Gal",
+            "price": "$39.20",
+            "price_with_tax": "$44.29",
+            "enercare_price": "$37.97"
+        },
+        {
+            "type": "Power Vent Gas - 60 Gal",
+            "price": "$40.91",
+            "price_with_tax": "$46.23",
+            "enercare_price": "$41.30"
+        },
+        {
+            "type": "Power Vent Gas - 75 Gal",
+            "price": "$47.70",
+            "price_with_tax": "$53.90",
+            "enercare_price": "$43.98"
+        },
+        {
+            "type": "Tankless Condensing - RU160",
+            "price": "$53.84",
+            "price_with_tax": "$60.84",
+            "enercare_price": "$48.99"
+        },
+        {
+            "type": "Tankless Condensing - RU199i",
+            "price": "$64.63",
+            "price_with_tax": "$73.03",
+            "enercare_price": "$49.99"
+        },
+        {
+            "type": "Tankless Condensing - RUR199i",
+            "price": "$80.79",
+            "price_with_tax": "$91.29",
+            "enercare_price": "NA"
+        },
+        {
+            "type": "Tankless Condensing - RSC160iN",
+            "price": "$53.84",
+            "price_with_tax": "$60.84",
+            "enercare_price": "NA"
+        },
+        {
+            "type": "Tankless Condensing - RSC199iN",
+            "price": "$80.79",
+            "price_with_tax": "$91.29",
+            "enercare_price": "NA"
+        },
+        {
+            "type": "Tankless Condensing - RHEEM 84DVLN-2",
+            "price": "$53.84",
+            "price_with_tax": "$60.84",
+            "enercare_price": "NA"
+        },
+        {
+            "type": "Tankless Condensing - RHEEM 95DVLN-2",
+            "price": "$64.63",
+            "price_with_tax": "$73.03",
+            "enercare_price": "$52.78"
+        },
+        {
+            "type": "Electric - 40 Gal",
+            "price": "$18.57",
+            "price_with_tax": "$20.99",
+            "enercare_price": "$17.88"
+        },
+        {
+            "type": "Electric - 50 Gal",
+            "price": "$26.39",
+            "price_with_tax": "$29.82",
+            "enercare_price": "NA"
+        },
+        {
+            "type": "Electric - 60 Gal",
+            "price": "$21.82",
+            "price_with_tax": "$24.66",
+            "enercare_price": "$20.44"
+        },
+        {
+            "type": "Electric - 75 Gal",
+            "price": "$30.51",
+            "price_with_tax": "$34.48",
+            "enercare_price": "NA"
+        },
+        {
+            "type": "Direct Vent - 40 Gal",
+            "price": "$36.05",
+            "price_with_tax": "$40.73",
+            "enercare_price": "$39.50"
+        },
+        {
+            "type": "Direct Vent - 50 Gal",
+            "price": "$37.46",
+            "price_with_tax": "$42.33",
+            "enercare_price": "$39.50"
+        },
+        {
+            "type": "Power Direct Vent - 40-40",
+            "price": "$44.31",
+            "price_with_tax": "$50.07",
+            "enercare_price": "$43.90"
+        },
+        {
+            "type": "Power Direct Vent - 50-50",
+            "price": "$44.31",
+            "price_with_tax": "$50.07",
+            "enercare_price": "$43.90"
+        },
+        {
+            "type": "Power Direct Vent - 50-62",
+            "price": "$47.70",
+            "price_with_tax": "$53.90",
+            "enercare_price": "NA"
+        },
+        {
+            "type": "Envirosense Power Vent 50 Gal",
+            "price": "$61.37",
+            "price_with_tax": "$69.35",
+            "enercare_price": "$48.99"
+        },
+        {
+            "type": "Envirosense Power Direct Vent 50 Gal",
+            "price": "$80.84",
+            "price_with_tax": "$91.11",
+            "enercare_price": "$60.18"
+        },
+        {
+            "type": "Combicore Power Vent - 50 Gal",
+            "price": "$66.43",
+            "price_with_tax": "$75.07",
+            "enercare_price": "$48.99"
+        },
+        {
+            "type": "Combicore Power Vent - 75 Gal",
+            "price": "$71.58",
+            "price_with_tax": "$80.85",
+            "enercare_price": "$60.18"
+        },
+        {
+            "type": "Polaris 34G",
+            "price": "$83.94",
+            "price_with_tax": "$94.58",
+            "enercare_price": "$66.51"
+        },
+        {
+            "type": "Polaris 50G",
+            "price": "$90.50",
+            "price_with_tax": "$102.26",
+            "enercare_price": "$77.07"
+        }
+    ],
+    "hard": [
+        {
+            "type": "Bradford White Storage Tank - 40 Gal",
+            "price": "$22.83",
+            "price_with_tax": "$25.79",
+            "enercare_price": "NA"
+        },
+        {
+            "type": "Bradford White Storage Tank - 50 Gal",
+            "price": "$22.83",
+            "price_with_tax": "$25.79",
+            "enercare_price": "NA"
+        },
+        {
+            "type": "Bradford White Storage Tank - 60 Gal",
+            "price": "$22.83",
+            "price_with_tax": "$25.79",
+            "enercare_price": "NA"
+        },
+        {
+            "type": "Conventional Gas - 40 Gal",
+            "price": "$25.56",
+            "price_with_tax": "$28.88",
+            "enercare_price": "$23.97"
+        },
+        {
+            "type": "Conventional Gas - 50 Gal",
+            "price": "$28.95",
+            "price_with_tax": "$32.71",
+            "enercare_price": "$25.55"
+        },
+        {
+            "type": "Conventional Gas - 60 Gal",
+            "price": "$34.06",
+            "price_with_tax": "$38.49",
+            "enercare_price": "$29.30"
+        },
+        {
+            "type": "Power Vent Gas - 40 Gal",
+            "price": "$40.91",
+            "price_with_tax": "$46.23",
+            "enercare_price": "$35.32"
+        },
+        {
+            "type": "Power Vent Gas - 50 Gal",
+            "price": "$44.91",
+            "price_with_tax": "$49.10",
+            "enercare_price": "$37.97"
+        },
+        {
+            "type": "Power Vent Gas - 60 Gal",
+            "price": "$47.00",
+            "price_with_tax": "$51.04",
+            "enercare_price": "$41.30"
+        },
+        {
+            "type": "Power Vent Gas - 75 Gal",
+            "price": "$52.84",
+            "price_with_tax": "$59.70",
+            "enercare_price": "$43.98"
+        },
+        {
+            "type": "Tankless Condensing - RU160",
+            "price": "$56.55",
+            "price_with_tax": "$63.90",
+            "enercare_price": "$48.99"
+        },
+        {
+            "type": "Tankless Condensing - RU199i",
+            "price": "$67.34",
+            "price_with_tax": "$76.09",
+            "enercare_price": "$49.99"
+        },
+        {
+            "type": "Tankless Condensing - RUR199i",
+            "price": "$80.79",
+            "price_with_tax": "$91.30",
+            "enercare_price": "$49.99"
+        },
+        {
+            "type": "Tankless Condensing - RSC160iN",
+            "price": "$53.84",
+            "price_with_tax": "$60.84",
+            "enercare_price": "$48.99"
+        },
+        {
+            "type": "Tankless Condensing - RSC199iN",
+            "price": "$80.79",
+            "price_with_tax": "$91.30",
+            "enercare_price": "$49.99"
+        },
+        {
+            "type": "Tankless Condensing - RHEEM 84DVLN-2",
+            "price": "$56.55",
+            "price_with_tax": "$63.90",
+            "enercare_price": "$52.78"
+        },
+        {
+            "type": "Tankless Condensing - RHEEM 95DVLN-2",
+            "price": "$67.34",
+            "price_with_tax": "$76.09",
+            "enercare_price": "$52.78"
+        },
+        {
+            "type": "Electric - 40 Gal",
+            "price": "$18.57",
+            "price_with_tax": "$20.99",
+            "enercare_price": "$17.88"
+        },
+        {
+            "type": "Electric - 50 Gal",
+            "price": "$26.39",
+            "price_with_tax": "$29.82",
+            "enercare_price": "$17.88"
+        },
+        {
+            "type": "Electric - 60 Gal",
+            "price": "$21.82",
+            "price_with_tax": "$24.66",
+            "enercare_price": "$20.44"
+        },
+        {
+            "type": "Electric - 75 Gal",
+            "price": "$30.51",
+            "price_with_tax": "$34.48",
+            "enercare_price": "$20.44"
+        },
+        {
+            "type": "Direct Vent - 40 Gal",
+            "price": "$38.39",
+            "price_with_tax": "$44.00",
+            "enercare_price": "$39.50"
+        },
+        {
+            "type": "Direct Vent - 50 Gal",
+            "price": "$40.36",
+            "price_with_tax": "$45.61",
+            "enercare_price": "$39.50"
+        },
+        {
+            "type": "Power Direct Vent - 40-40",
+            "price": "$46.49",
+            "price_with_tax": "$51.77",
+            "enercare_price": "$43.90"
+        },
+        {
+            "type": "Power Direct Vent - 50-50",
+            "price": "$46.49",
+            "price_with_tax": "$51.77",
+            "enercare_price": "$43.90"
+        },
+        {
+            "type": "Power Direct Vent - 50-62",
+            "price": "$51.14",
+            "price_with_tax": "$57.78",
+            "enercare_price": "$43.90"
+        },
+        {
+            "type": "Envirosense Power Vent 50 Gal",
+            "price": "$64.77",
+            "price_with_tax": "$73.20",
+            "enercare_price": "$48.99"
+        },
+        {
+            "type": "Envirosense Power Direct Vent 50 Gal",
+            "price": "$83.76",
+            "price_with_tax": "$95.20",
+            "enercare_price": "$60.18"
+        },
+        {
+            "type": "Combicore Power Vent - 50 Gal",
+            "price": "$69.88",
+            "price_with_tax": "$78.96",
+            "enercare_price": "$48.99"
+        },
+        {
+            "type": "Combicore Power Vent - 75 Gal",
+            "price": "$74.98",
+            "price_with_tax": "$84.57",
+            "enercare_price": "$60.18"
+        },
+        {
+            "type": "Polaris 34G",
+            "price": "$87.13",
+            "price_with_tax": "$98.46",
+            "enercare_price": "$66.51"
+        },
+        {
+            "type": "Polaris 50G",
+            "price": "$93.69",
+            "price_with_tax": "$105.87",
+            "enercare_price": "$77.07"
+        }
+    ]
+}
